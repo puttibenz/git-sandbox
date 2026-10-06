@@ -5,5 +5,3 @@ formula: income - expense
 sections:
 - 40(1)
 - 40(2)
-
-buggy line: this line breaks everything!
