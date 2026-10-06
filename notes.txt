@@ -1,4 +1,4 @@
-# Tax Study Notes
+# Thai tax Guide 2568 (from A)
 
 formula: income - expense
 
