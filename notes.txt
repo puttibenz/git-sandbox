@@ -1,3 +1,7 @@
 # Tax Study Notes
 
 formula: income - expense
+
+sections:
+- 40(1)
+- 40(2)
