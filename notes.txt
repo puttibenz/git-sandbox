@@ -1,1 +1,3 @@
 # Tax Study Notes
+
+formula: income - expnese
