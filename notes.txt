@@ -1,4 +1,4 @@
-# Tax Study Notes
+# Personal Income Tax Handbook (from Branch B)
 
 formula: income - expense
 
